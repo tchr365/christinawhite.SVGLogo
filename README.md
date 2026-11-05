@@ -1,2 +1,2 @@
 # christinawhite.SVGLogo
-<img src="./logo.svg" width="300" alt="Logo">
+<img src="./logo.svg" width="1000" alt="Logo">
